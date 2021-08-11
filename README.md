@@ -15,10 +15,11 @@ It runs on http://localhost:8888
 **Notice that you need a token in order to connect to the notebook.** You can find it in your container logs:
     
     docker logs <container_id>
-    
-Alternatively you can modify the `start`script inside the `Makefile` and run the container in the foreground rather than deattached (remove the `-d`)
 
 Example:
 <pre>
 http://127.0.0.1:8888/?token=<b>89fca8197510f36fd4761107bd0bc9539a88ff6dd536b9b8</b>
 </pre>
+
+Alternatively you can modify the `start`script inside the `Makefile` and run the container in the foreground rather than deattached (remove the `-d`)
+
