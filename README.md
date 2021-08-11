@@ -22,5 +22,3 @@ Example:
 <pre>
 http://127.0.0.1:8888/?token=<b>89fca8197510f36fd4761107bd0bc9539a88ff6dd536b9b8</b>
 </pre>
-
-``
