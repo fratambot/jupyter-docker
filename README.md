@@ -20,7 +20,7 @@ Alternatively you can modify the `start`script inside the `Makefile` and run the
 
 Example:
 <pre>
-sample <b>sample</b> sample
+http://127.0.0.1:8888/?token=<b>89fca8197510f36fd4761107bd0bc9539a88ff6dd536b9b8</b>
 </pre>
 
-`http://127.0.0.1:8888/?token=89fca8197510f36fd4761107bd0bc9539a88ff6dd536b9b8`
+``
